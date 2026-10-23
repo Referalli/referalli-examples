@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Referalli Example",
+    "slug": "referalli-example",
+    "scheme": "referalliexample",
+    "ios": { "bundleIdentifier": "com.example.referalli" },
+    "android": { "package": "com.example.referalli" },
+    "plugins": [["@referalli/react-native", { "domains": ["app.example.com"] }]]
+  }
+}
